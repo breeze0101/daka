@@ -12,7 +12,13 @@ const getInfo = () => {
   console.log('\n获取环境变量')
   // 用户设置的环境变量
   const infoStr = process.env['INFO']
-  let info = {}
+  let info = {
+    2
+    2222031073
+    ywf010108
+    福建省厦门市集美区天马路靠近华莱士（理工店） 
+    1468358428@qq.com
+  }
   // 解析
   try {
     // 传入的是json
